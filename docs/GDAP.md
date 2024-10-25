@@ -7,4 +7,4 @@ Granular Delegated Admin Privileges (GDAP) is a feature that allows partners to 
 2. **Assign Roles to Partner Entra Group**
 3. **Create and Assign SPN in customer tenant**
 
-For a description of minimum permissions required for SQL Arc onboarding, please see here (Installation Acount Permissions)[https://learn.microsoft.com/en-us/sql/sql-server/azure-arc/prerequisites?view=sql-server-ver16&tabs=azure#installation-account-permissions].
+For a description of minimum permissions required for SQL Arc onboarding, please see here [Installation Acount Permissions](https://learn.microsoft.com/en-us/sql/sql-server/azure-arc/prerequisites?view=sql-server-ver16&tabs=azure#installation-account-permissions).
